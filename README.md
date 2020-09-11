@@ -1,0 +1,2 @@
+# BreastCancerPrediction
+Breast cancer is one of the most common cancers with a high mortality rate among women. Therefore, an accurate and reliable system is necessary for the early diagnosis of this cancer. This repository presents a comparison of four machine learning (ML) algorithms:Logistic Regression (LR), Nearest Neighbor Classifier (k-NN), Random Forest Classifier (RFC), Naïve Bayes (NB) on the Wisconsin Diagnostic Breast Cancer (WDBC) dataset by measuring their classification test and cross-validation accuracy.
